@@ -1,0 +1,25 @@
+name: create-release
+on: 
+  push:
+    branches:
+        - main
+  pull_request:
+    branches:
+        - main
+jobs:
+  run-semantic-release:
+    runs-on: windows-latest
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - name: Checkout branch 
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '12.2.0'
+      - name: Install dependencies 
+        run: npx run semantic-release
+      - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx semantic-release 
