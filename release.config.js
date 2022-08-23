@@ -2,7 +2,7 @@ module.exports = {
     debug: true,
     ci: true,
     branch: "main",
-    repositoryUrl: "https://git.kcura.com/scm/raw/relativityautomatedworkflows.git",
+    repositoryUrl: "https://github.com/faizanrahman/test-semantic-release.git",
     plugins: [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
