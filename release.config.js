@@ -8,17 +8,24 @@ module.exports = {
         "@semantic-release/release-notes-generator",
         // "@semantic-release/npm",
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
-        ["@semantic-release/exec", 
-            {
-                "prepareCmd": "./prepare.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}",
-                execCwd: "test-semantic-release"
-                // "prepare": [
-                //     {
-                //         "path": "@semantic-release/exec",
-                //         "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
-                //     }
-                // ]
-            }
+        // ["@semantic-release/exec", 
+        //     {
+        //         "prepareCmd": "./prepare.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}",
+        //         "execCwd": "test-semantic-release"
+        //         // "prepare": [
+        //         //     {
+        //         //         "path": "@semantic-release/exec",
+        //         //         "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+        //         //     }
+        //         // ]
+        //     }
+        // ],
+        ["semantic-release-plugin-update-version-in-files", {
+            "files": [
+              "version.txt"
+            ],
+            // "placeholder": "0.0.0-development"
+          }
         ],
         [
             "@semantic-release/git",
