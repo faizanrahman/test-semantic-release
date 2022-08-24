@@ -10,7 +10,8 @@ module.exports = {
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
         ["@semantic-release/exec", 
             {
-                "prepareCmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                // "prepareCmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
             }
         ],
         [
