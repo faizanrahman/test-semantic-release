@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/faizanrahman/test-semantic-release/compare/1.1.0...1.2.0) (2022-08-24)
+
+
+### Features
+
+* add version file ([60fcd3e](https://github.com/faizanrahman/test-semantic-release/commit/60fcd3e132e67b9a85b557597e9bfb777b33f923))
+
 # [1.1.0](https://github.com/faizanrahman/test-semantic-release/compare/v1.0.0...1.1.0) (2022-08-24)
 
 
