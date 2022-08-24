@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/faizanrahman/test-semantic-release/compare/1.4.0...1.5.0) (2022-08-24)
+
+
+### Features
+
+* update tagFormat ([6a25022](https://github.com/faizanrahman/test-semantic-release/commit/6a2502258d30f6b12a7d77d36d94fe8b57ea710b))
+
+
+### Performance Improvements
+
+* remove npm plugin, since it is not required ([2b5da86](https://github.com/faizanrahman/test-semantic-release/commit/2b5da866559f087a42c60f39c910d857af885965))
+
 # [1.1.0](https://github.com/faizanrahman/test-semantic-release/compare/v1.0.0...v1.1.0) (2022-08-24)
 
 
