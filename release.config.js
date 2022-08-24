@@ -8,6 +8,11 @@ module.exports = {
         "@semantic-release/release-notes-generator",
         // "@semantic-release/npm",
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
+        ["@semantic-release/exec", 
+            {
+                "prepareCmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+            }
+        ]
         [
             "@semantic-release/git",
             {
@@ -16,5 +21,5 @@ module.exports = {
         ]
     ],
     dryRun: false,
-    // tagFormat: '${version}'
+    tagFormat: '${version}'
 }
