@@ -27,13 +27,13 @@ module.exports = {
             "placeholder": "0.0.0-development"
           }
         ],
-        // [
-            "@semantic-release/git"
-            // {
-            //     // "assets": [{"path": 'CHANGELOG.md'}, {"path": 'version.txt'}]
-            //     // "assets": ['CHANGELOG.md', 'version.txt']
-            // }
-        // ]
+        [
+            "@semantic-release/git",
+            {
+                // "assets": [{"path": 'CHANGELOG.md'}, {"path": 'version.txt'}]
+                "assets": ['CHANGELOG.md', 'version.txt']
+            }
+        ]
     ],
     dryRun: false,
     tagFormat: '${version}'
