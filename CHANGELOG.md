@@ -1,0 +1,23 @@
+# 1.0.0 (2022-08-24)
+
+
+### Bug Fixes
+
+* update git plugin to use version compatible with semantic-release ([2e83afb](https://github.com/faizanrahman/test-semantic-release/commit/2e83afb013c8f3d2f4e4aa2cf0e49b4a73046c21))
+* update package-lock.json file ([935c7f1](https://github.com/faizanrahman/test-semantic-release/commit/935c7f1e9cf336cac8e9d428170d0a0ea6f61c38))
+
+
+### Features
+
+* add 'npm ci' command ([dfca96e](https://github.com/faizanrahman/test-semantic-release/commit/dfca96eed6e5d3082b99091b459ff7c4f31099ad))
+* add 'package-lock.json' file ([3b63adf](https://github.com/faizanrahman/test-semantic-release/commit/3b63adf829b1b8c0b26ba0b8dfe672adcfcba3fc))
+* add semantic-release library, add changelog file ([38a3d8b](https://github.com/faizanrahman/test-semantic-release/commit/38a3d8bef1b144983db94c43c81b9e0a1b4a6a1e))
+* update repoUrl ([4412e7a](https://github.com/faizanrahman/test-semantic-release/commit/4412e7ab56e9fcea2327db69c2adae5d088b0b6f))
+
+
+### BREAKING CHANGES
+
+* This is a breaking change.
+* This is a breaking change
+* This is a breaking change
+* This is a breaking change
