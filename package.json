@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/faizanrahman/test-semantic-release#readme",
   "dependencies": {
+    "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^7.0.18"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/exec": "^2.3.0",
     "semantic-release": "^15.13.32"
   }
 }
