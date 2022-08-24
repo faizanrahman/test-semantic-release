@@ -12,7 +12,7 @@ module.exports = {
             {
                 "prepareCmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
             }
-        ]
+        ],
         [
             "@semantic-release/git",
             {
