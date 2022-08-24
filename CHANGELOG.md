@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/faizanrahman/test-semantic-release/compare/1.2.0...1.3.0) (2022-08-24)
+
+
+### Features
+
+* update config file ([33b1312](https://github.com/faizanrahman/test-semantic-release/commit/33b13124eddb513d4edc6e99c944ccb866325ccb))
+
 # [1.2.0](https://github.com/faizanrahman/test-semantic-release/compare/1.1.0...1.2.0) (2022-08-24)
 
 
