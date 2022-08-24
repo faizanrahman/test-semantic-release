@@ -11,7 +11,12 @@ module.exports = {
         ["@semantic-release/exec", 
             {
                 // "prepareCmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
-                "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                "prepare": [
+                    {
+                        "path": "@semantic-release/exec",
+                        "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                    }
+                ]
             }
         ],
         [
