@@ -7,18 +7,24 @@ module.exports = {
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
-        // ["@semantic-release/exec", 
-        //     {
-        //         "prepareCmd": "./prepare.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}",
-        //         "execCwd": "test-semantic-release"
-        //         // "prepare": [
-        //         //     {
-        //         //         "path": "@semantic-release/exec",
-        //         //         "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
-        //         //     }
-        //         // ]
-        //     }
-        // ],
+        ["@semantic-release/exec", 
+            {
+                "prepare": [
+                    {
+                        "path": "@semantic-release/exec",
+                        "cmd": "./prepare.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                    }
+                ]
+                // "prepareCmd": "./prepare.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}",
+                // "execCwd": "test-semantic-release"
+                // "prepare": [
+                //     {
+                //         "path": "@semantic-release/exec",
+                //         "cmd": "./update-version.sh ${nextRelease.version} ${options.branch} ${commits.length} ${Date.now()}"
+                //     }
+                // ]
+            }
+        ],
         ["semantic-release-plugin-update-version-in-files", {
             "files": [
               "version.txt"
