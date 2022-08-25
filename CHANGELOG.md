@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/faizanrahman/test-semantic-release/compare/1.6.0...1.7.0) (2022-08-25)
+
+
+### Features
+
+* add 'package.json' to git plugin ([bdb902a](https://github.com/faizanrahman/test-semantic-release/commit/bdb902a8c9255e43dcbf6d4f532aba49624066ea))
+
 # [1.6.0](https://github.com/faizanrahman/test-semantic-release/compare/1.5.0...1.6.0) (2022-08-25)
 
 
