@@ -1,3 +1,15 @@
+# [1.6.0](https://github.com/faizanrahman/test-semantic-release/compare/1.5.0...1.6.0) (2022-08-25)
+
+
+### Bug Fixes
+
+* add regex for version placeholder ([46a5766](https://github.com/faizanrahman/test-semantic-release/commit/46a5766b893888179a2f3ed1a341a385de4b3792))
+
+
+### Features
+
+* update regex for version placeholder ([b891697](https://github.com/faizanrahman/test-semantic-release/commit/b891697585d60fb40706dfdc13a1407ba75f5b62))
+
 # [1.5.0](https://github.com/faizanrahman/test-semantic-release/compare/1.4.0...1.5.0) (2022-08-24)
 
 
