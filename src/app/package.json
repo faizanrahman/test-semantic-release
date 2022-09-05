@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/faizanrahman/test-semantic-release#readme",
   "devDependencies": {
-    "@semantic-release/changelog": "^5.0.1",
+    // "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.1",
     "semantic-release": "^15.13.32",
-    "semantic-release-plugin-update-version-in-files": "^1.1.0"
+    // "semantic-release-plugin-update-version-in-files": "^1.0.0"
   }
 }
