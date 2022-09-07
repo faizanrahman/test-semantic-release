@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/faizanrahman/test-semantic-release/compare/1.7.0...1.7.1) (2022-09-07)
+
+
+### Bug Fixes
+
+* remove whitespace ([ee3ea5d](https://github.com/faizanrahman/test-semantic-release/commit/ee3ea5d848303823f2aa77984d59079699fc3cb5))
+
 # [1.7.0](https://github.com/faizanrahman/test-semantic-release/compare/1.6.0...1.7.0) (2022-08-25)
 
 
