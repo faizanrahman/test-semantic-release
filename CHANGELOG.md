@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/faizanrahman/test-semantic-release/compare/1.7.1...1.7.2) (2022-09-07)
+
+
+### Bug Fixes
+
+* remove node_modules folder ([503d15b](https://github.com/faizanrahman/test-semantic-release/commit/503d15b9df1ea900ac5557d43855519866fced47))
+
 ## [1.7.1](https://github.com/faizanrahman/test-semantic-release/compare/1.7.0...1.7.1) (2022-09-07)
 
 
