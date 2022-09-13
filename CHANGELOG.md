@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/faizanrahman/test-semantic-release/compare/2.0.2...2.0.3) (2022-09-13)
+
+
+### Bug Fixes
+
+* update version file according to regex ([80d5c39](https://github.com/faizanrahman/test-semantic-release/commit/80d5c39a789282bef7dbb3d05fb578d8bba6058b))
+
 ## [2.0.2](https://github.com/faizanrahman/test-semantic-release/compare/2.0.1...2.0.2) (2022-09-13)
 
 
