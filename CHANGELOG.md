@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/faizanrahman/test-semantic-release/compare/1.7.2...2.0.0) (2022-09-13)
+
+
+### Features
+
+* add new plugin for version replacement ([afafe49](https://github.com/faizanrahman/test-semantic-release/commit/afafe49555c74d7996390b909732dcd44d66ccb4))
+
+
+### BREAKING CHANGES
+
+* a new plugin is added for testing
+
 ## [1.7.2](https://github.com/faizanrahman/test-semantic-release/compare/1.7.1...1.7.2) (2022-09-07)
 
 
