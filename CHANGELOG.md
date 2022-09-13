@@ -1,3 +1,31 @@
+## [2.0.3](https://github.com/faizanrahman/test-semantic-release/compare/2.0.2...2.0.3) (2022-09-13)
+
+
+### Bug Fixes
+
+* update version file according to regex ([80d5c39](https://github.com/faizanrahman/test-semantic-release/commit/80d5c39a789282bef7dbb3d05fb578d8bba6058b))
+
+## [2.0.2](https://github.com/faizanrahman/test-semantic-release/compare/2.0.1...2.0.2) (2022-09-13)
+
+
+### Bug Fixes
+
+* add results property ([ea5910b](https://github.com/faizanrahman/test-semantic-release/commit/ea5910baa585a20c87f8fd729ad815a8baacb3e5))
+* remove 'exec' plugin ([d2aa3a7](https://github.com/faizanrahman/test-semantic-release/commit/d2aa3a771f95e231ad004e7918ab05047c55c33e))
+* remove results ([4f87624](https://github.com/faizanrahman/test-semantic-release/commit/4f8762429a085d0c7a37a4278baae5821ecbce93))
+
+## [2.0.1](https://github.com/faizanrahman/test-semantic-release/compare/2.0.0...2.0.1) (2022-09-13)
+
+
+### Bug Fixes
+
+* add backticks for variable parsing ([eb78a1f](https://github.com/faizanrahman/test-semantic-release/commit/eb78a1fcb605865ddf1158f7d28b6cd5da914c43))
+* add disable lint to line ([36b06f3](https://github.com/faizanrahman/test-semantic-release/commit/36b06f3a6c94a3016efffb1a1315b86ea4aa8cf2))
+* modify replacement text ([92dab6f](https://github.com/faizanrahman/test-semantic-release/commit/92dab6fc1dbc0ca4627e0b6643869a61627cef64))
+* remove 'results' property ([5a83f99](https://github.com/faizanrahman/test-semantic-release/commit/5a83f99397c923e30be80638f85937cc1b9c6839))
+* revert back to working version ([88d75fe](https://github.com/faizanrahman/test-semantic-release/commit/88d75fe05fa7a7d9dce15190edc2ab0a4163cf58))
+* syntax error ([baf2a64](https://github.com/faizanrahman/test-semantic-release/commit/baf2a641fd88c73f354d16968d3b0c43d112c778))
+
 # [2.0.0](https://github.com/faizanrahman/test-semantic-release/compare/1.7.2...2.0.0) (2022-09-13)
 
 
