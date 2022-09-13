@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/faizanrahman/test-semantic-release/compare/2.0.4...2.0.5) (2022-09-13)
+
+
+### Bug Fixes
+
+* update regex ([cb8af2c](https://github.com/faizanrahman/test-semantic-release/commit/cb8af2cc1c479378f283fa0893381543ec25c794))
+
 ## [2.0.4](https://github.com/faizanrahman/test-semantic-release/compare/2.0.3...2.0.4) (2022-09-13)
 
 
