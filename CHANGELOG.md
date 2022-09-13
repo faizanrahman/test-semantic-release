@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/faizanrahman/test-semantic-release/compare/2.0.5...2.0.6) (2022-09-13)
+
+
+### Bug Fixes
+
+* test with double-digit minor version ([f455647](https://github.com/faizanrahman/test-semantic-release/commit/f455647a7bd9dc0a248cbc316daf197ec5fdc886))
+
 ## [2.0.5](https://github.com/faizanrahman/test-semantic-release/compare/2.0.4...2.0.5) (2022-09-13)
 
 
