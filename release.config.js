@@ -33,7 +33,7 @@ module.exports = {
                 {
                   "files": ["version.txt"],
                   "from": /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-((?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\.(?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\+([0-9a-zA-Z-]+(?:\.[0-9a-zA-Z-]+)*))?$/,
-                  "to": "__VERSION__ = \"${nextRelease.version}\"",
+                  "to": "${nextRelease.version}",
                   "results": [
                     {
                       "file": "version.txt",
@@ -46,7 +46,7 @@ module.exports = {
                 }
               ]
             }
-        ],
+          ],
         [
             "@semantic-release/git",
             {
