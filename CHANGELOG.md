@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/faizanrahman/test-semantic-release/compare/2.0.1...2.0.2) (2022-09-13)
+
+
+### Bug Fixes
+
+* add results property ([ea5910b](https://github.com/faizanrahman/test-semantic-release/commit/ea5910baa585a20c87f8fd729ad815a8baacb3e5))
+* remove 'exec' plugin ([d2aa3a7](https://github.com/faizanrahman/test-semantic-release/commit/d2aa3a771f95e231ad004e7918ab05047c55c33e))
+* remove results ([4f87624](https://github.com/faizanrahman/test-semantic-release/commit/4f8762429a085d0c7a37a4278baae5821ecbce93))
+
 ## [2.0.1](https://github.com/faizanrahman/test-semantic-release/compare/2.0.0...2.0.1) (2022-09-13)
 
 
