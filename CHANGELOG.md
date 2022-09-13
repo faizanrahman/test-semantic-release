@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/faizanrahman/test-semantic-release/compare/2.0.3...2.0.4) (2022-09-13)
+
+
+### Bug Fixes
+
+* update version file ([306de57](https://github.com/faizanrahman/test-semantic-release/commit/306de578f685ffcd24b5d1cb4b90309f1f1be601))
+
 ## [2.0.3](https://github.com/faizanrahman/test-semantic-release/compare/2.0.2...2.0.3) (2022-09-13)
 
 
