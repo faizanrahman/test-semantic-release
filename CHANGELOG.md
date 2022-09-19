@@ -1,3 +1,44 @@
+# [2.0.0](https://github.com/faizanrahman/test-semantic-release/compare/v1.1.0...v2.0.0) (2022-09-19)
+
+
+### Bug Fixes
+
+* add backticks for variable parsing ([eb78a1f](https://github.com/faizanrahman/test-semantic-release/commit/eb78a1fcb605865ddf1158f7d28b6cd5da914c43))
+* add disable lint to line ([36b06f3](https://github.com/faizanrahman/test-semantic-release/commit/36b06f3a6c94a3016efffb1a1315b86ea4aa8cf2))
+* add regex for version placeholder ([46a5766](https://github.com/faizanrahman/test-semantic-release/commit/46a5766b893888179a2f3ed1a341a385de4b3792))
+* add results property ([ea5910b](https://github.com/faizanrahman/test-semantic-release/commit/ea5910baa585a20c87f8fd729ad815a8baacb3e5))
+* correct tagFormat syntax error ([bcbf02f](https://github.com/faizanrahman/test-semantic-release/commit/bcbf02f44330a131b93e9f21511fa44a369648b2))
+* modify replacement text ([92dab6f](https://github.com/faizanrahman/test-semantic-release/commit/92dab6fc1dbc0ca4627e0b6643869a61627cef64))
+* remove 'exec' plugin ([d2aa3a7](https://github.com/faizanrahman/test-semantic-release/commit/d2aa3a771f95e231ad004e7918ab05047c55c33e))
+* remove 'results' property ([5a83f99](https://github.com/faizanrahman/test-semantic-release/commit/5a83f99397c923e30be80638f85937cc1b9c6839))
+* remove node_modules folder ([503d15b](https://github.com/faizanrahman/test-semantic-release/commit/503d15b9df1ea900ac5557d43855519866fced47))
+* remove results ([4f87624](https://github.com/faizanrahman/test-semantic-release/commit/4f8762429a085d0c7a37a4278baae5821ecbce93))
+* remove whitespace ([ee3ea5d](https://github.com/faizanrahman/test-semantic-release/commit/ee3ea5d848303823f2aa77984d59079699fc3cb5))
+* revert back to working version ([88d75fe](https://github.com/faizanrahman/test-semantic-release/commit/88d75fe05fa7a7d9dce15190edc2ab0a4163cf58))
+* syntax error ([baf2a64](https://github.com/faizanrahman/test-semantic-release/commit/baf2a641fd88c73f354d16968d3b0c43d112c778))
+* test with double-digit minor version ([f455647](https://github.com/faizanrahman/test-semantic-release/commit/f455647a7bd9dc0a248cbc316daf197ec5fdc886))
+* update regex ([cb8af2c](https://github.com/faizanrahman/test-semantic-release/commit/cb8af2cc1c479378f283fa0893381543ec25c794))
+* update tagFormat ([d225866](https://github.com/faizanrahman/test-semantic-release/commit/d225866a52fbc77a42cb6ea48873464a5b202088))
+* update version file ([306de57](https://github.com/faizanrahman/test-semantic-release/commit/306de578f685ffcd24b5d1cb4b90309f1f1be601))
+* update version file according to regex ([80d5c39](https://github.com/faizanrahman/test-semantic-release/commit/80d5c39a789282bef7dbb3d05fb578d8bba6058b))
+
+
+* remove unneeded file ([8c9f960](https://github.com/faizanrahman/test-semantic-release/commit/8c9f9604ee784b77c06b029fcff72f4bca16501b))
+
+
+### Features
+
+* add 'package.json' to git plugin ([bdb902a](https://github.com/faizanrahman/test-semantic-release/commit/bdb902a8c9255e43dcbf6d4f532aba49624066ea))
+* add new plugin for version replacement ([afafe49](https://github.com/faizanrahman/test-semantic-release/commit/afafe49555c74d7996390b909732dcd44d66ccb4))
+* update regex for version placeholder ([b891697](https://github.com/faizanrahman/test-semantic-release/commit/b891697585d60fb40706dfdc13a1407ba75f5b62))
+* update tagFormat ([6a25022](https://github.com/faizanrahman/test-semantic-release/commit/6a2502258d30f6b12a7d77d36d94fe8b57ea710b))
+
+
+### BREAKING CHANGES
+
+* remove unneeded file
+* a new plugin is added for testing
+
 # [3.0.0](https://github.com/faizanrahman/test-semantic-release/compare/2.0.6...3.0.0) (2022-09-19)
 
 
