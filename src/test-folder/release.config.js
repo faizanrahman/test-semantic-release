@@ -7,29 +7,14 @@ module.exports = {
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
-        // ["semantic-release-plugin-update-version-in-files", {
-        //     "files": [
-        //       "version.txt"
-        //     ],
-        //     "placeholder": /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-((?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\.(?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\+([0-9a-zA-Z-]+(?:\.[0-9a-zA-Z-]+)*))?$/
-        //   }
-        // ],
         [
             "@google/semantic-release-replace-plugin",
             {
               "replacements": [
                 {
-                  "files": ["version.txt"],
+                  "files": ["../../version.txt"],
                   "from": /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-((?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\.(?:0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\+([0-9a-zA-Z-]+(?:\.[0-9a-zA-Z-]+)*))?$/,
                   "to": "${nextRelease.version}",
-                //   "results": [
-                //     {
-                //       "file": "version.txt",
-                //       "hasChanged": true,
-                //       "numMatches": 1,
-                //       "numReplacements": 1
-                //     }
-                //   ],
                   "countMatches": true
                 }
               ]
