@@ -1,3 +1,13 @@
+# [4.0.0](https://github.com/faizanrahman/test-semantic-release/compare/3.1.0...4.0.0) (2022-09-19)
+
+
+* add line to readme file ([79109b4](https://github.com/faizanrahman/test-semantic-release/commit/79109b4c603e58ba0c9fcf777bca330650f3b221))
+
+
+### BREAKING CHANGES
+
+* this is a breaking change
+
 # [3.1.0](https://github.com/faizanrahman/test-semantic-release/compare/3.0.5...3.1.0) (2022-09-19)
 
 
