@@ -28,5 +28,5 @@ module.exports = {
         ]
     ],
     dryRun: false,
-    tagFormat: 'Version ${version}'
+    tagFormat: '${version}'
 }
