@@ -10,7 +10,8 @@ module.exports = {
             {"type": "docs", "scope":"README", "release": "patch"},
             {"type": "refactor", "release": "patch"},
             {"type": "style", "scope": "Styling", "release": "patch"},
-            {"type": "no-release", "release": false }
+            {"type": "no-release", "release": false },
+            {"type": "devops", "release": false}
           ],
           "parserOpts": {
             "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING", "THIS IS A BREAKING CHANGE"]
