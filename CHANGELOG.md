@@ -1,3 +1,13 @@
+# [3.0.0](https://github.com/faizanrahman/test-semantic-release/compare/2.0.6...3.0.0) (2022-09-19)
+
+
+* remove unneeded file ([8c9f960](https://github.com/faizanrahman/test-semantic-release/commit/8c9f9604ee784b77c06b029fcff72f4bca16501b))
+
+
+### BREAKING CHANGES
+
+* remove unneeded file
+
 ## [2.0.6](https://github.com/faizanrahman/test-semantic-release/compare/2.0.5...2.0.6) (2022-09-13)
 
 
