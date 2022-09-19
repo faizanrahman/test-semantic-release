@@ -1,3 +1,5 @@
+## [3.0.2](https://github.com/faizanrahman/test-semantic-release/compare/3.0.1...3.0.2) (2022-09-19)
+
 ## [3.0.1](https://github.com/faizanrahman/test-semantic-release/compare/3.0.0...3.0.1) (2022-09-19)
 
 
