@@ -4,7 +4,7 @@ module.exports = {
     branch: "main",
     repositoryUrl: "https://github.com/faizanrahman/test-semantic-release.git",
     plugins: [
-        "@semantic-release/commit-analyzer", {
+        ["@semantic-release/commit-analyzer", {
           "preset": "angular",
           "releaseRules": [
             {"type": "docs", "scope":"README", "release": "patch"},
@@ -15,7 +15,7 @@ module.exports = {
           "parserOpts": {
             "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING", "THIS IS A BREAKING CHANGE"]
           }
-        },
+        }],
         "@semantic-release/release-notes-generator",
         ["@semantic-release/changelog",{ "changelogFile": "CHANGELOG.md" }],
         [
