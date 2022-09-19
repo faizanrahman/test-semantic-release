@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/faizanrahman/test-semantic-release/compare/3.0.4...3.0.5) (2022-09-19)
+
+
+### Bug Fixes
+
+* update formatting of release-config file ([4efa2f5](https://github.com/faizanrahman/test-semantic-release/commit/4efa2f514b182cd073e117c09957d8ae32c93bf8))
+
 ## [3.0.4](https://github.com/faizanrahman/test-semantic-release/compare/3.0.3...3.0.4) (2022-09-19)
 
 ## [3.0.3](https://github.com/faizanrahman/test-semantic-release/compare/3.0.2...3.0.3) (2022-09-19)
