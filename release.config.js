@@ -7,7 +7,7 @@ module.exports = {
         "@semantic-release/commit-analyzer", {
           "preset": "angular",
           "releaseRules": [
-            {"type": "docs", "scope":"DOCUMENTATION", "release": "patch"},
+            {"type": "docs", "scope":"README", "release": "patch"},
             {"type": "refactor", "release": "patch"},
             {"type": "style", "scope": "Styling", "release": "patch"},
             {"type": "no-release", "release": false }
