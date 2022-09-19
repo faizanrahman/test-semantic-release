@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/faizanrahman/test-semantic-release/compare/3.0.5...3.1.0) (2022-09-19)
+
+
+### Features
+
+* **feature-name:** test a minor release ([bf2d206](https://github.com/faizanrahman/test-semantic-release/commit/bf2d206791dba546a166cf1e30437183f7e2485a))
+
 ## [3.0.5](https://github.com/faizanrahman/test-semantic-release/compare/3.0.4...3.0.5) (2022-09-19)
 
 
