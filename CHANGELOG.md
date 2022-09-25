@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/faizanrahman/test-semantic-release/compare/v3.0.0...v3.0.1) (2022-09-25)
+
+
+### Performance Improvements
+
+* **CustomPage:** add script for performance improvements ([312918d](https://github.com/faizanrahman/test-semantic-release/commit/312918d4b0e106963ca447726f3ec5752a423e8d))
+
 # [3.0.0](https://github.com/faizanrahman/test-semantic-release/compare/v2.0.0...v3.0.0) (2022-09-25)
 
 
