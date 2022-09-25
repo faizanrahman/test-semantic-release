@@ -43,5 +43,5 @@ module.exports = {
         ]
     ],
     dryRun: false,
-    tagFormat: 'v${version}'
+    tagFormat: '${version}'
 }
