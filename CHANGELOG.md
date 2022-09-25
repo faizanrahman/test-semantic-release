@@ -1,3 +1,26 @@
+# [3.0.0](https://github.com/faizanrahman/test-semantic-release/compare/v2.0.0...v3.0.0) (2022-09-25)
+
+
+### Bug Fixes
+
+* add version to version format ([3c985ca](https://github.com/faizanrahman/test-semantic-release/commit/3c985ca2165aced1359f5dd7cace68678575ede8))
+* update formatting of release-config file ([4efa2f5](https://github.com/faizanrahman/test-semantic-release/commit/4efa2f514b182cd073e117c09957d8ae32c93bf8))
+* update tagFormat, the next version should be v1.1.1 ([319b9a7](https://github.com/faizanrahman/test-semantic-release/commit/319b9a77fcb009a403eb82c45c64332c5f819abd))
+* **docs update:** revert version format ([90334ce](https://github.com/faizanrahman/test-semantic-release/commit/90334cef5b5c39cbc30486a30391a52c480d1090))
+
+
+* add line to readme file ([79109b4](https://github.com/faizanrahman/test-semantic-release/commit/79109b4c603e58ba0c9fcf777bca330650f3b221))
+
+
+### Features
+
+* **feature-name:** test a minor release ([bf2d206](https://github.com/faizanrahman/test-semantic-release/commit/bf2d206791dba546a166cf1e30437183f7e2485a))
+
+
+### BREAKING CHANGES
+
+* this is a breaking change
+
 # [4.0.0](https://github.com/faizanrahman/test-semantic-release/compare/3.1.0...4.0.0) (2022-09-19)
 
 
