@@ -1,3 +1,10 @@
+## [4.0.3](https://github.com/faizanrahman/test-semantic-release/compare/4.0.2...4.0.3) (2022-09-28)
+
+
+### Reverts
+
+* "fix: add log statement" ([d8e4768](https://github.com/faizanrahman/test-semantic-release/commit/d8e476871497e61bb59547c82caeba6ac96c9596))
+
 ## [4.0.2](https://github.com/faizanrahman/test-semantic-release/compare/4.0.1...4.0.2) (2022-09-28)
 
 
