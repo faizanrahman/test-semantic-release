@@ -1,3 +1,10 @@
+## [4.0.4](https://github.com/faizanrahman/test-semantic-release/compare/4.0.3...4.0.4) (2022-09-28)
+
+
+### Performance Improvements
+
+* improved performance of webpage ([e2eeb4c](https://github.com/faizanrahman/test-semantic-release/commit/e2eeb4cd11575baad23f77faddc277bb6536da7c))
+
 ## [4.0.3](https://github.com/faizanrahman/test-semantic-release/compare/4.0.2...4.0.3) (2022-09-28)
 
 
