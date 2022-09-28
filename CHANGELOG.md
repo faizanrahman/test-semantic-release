@@ -1,3 +1,10 @@
+## [4.0.2](https://github.com/faizanrahman/test-semantic-release/compare/4.0.1...4.0.2) (2022-09-28)
+
+
+### Bug Fixes
+
+* add log statement ([f0d6eee](https://github.com/faizanrahman/test-semantic-release/commit/f0d6eee2024ad5dd342721646decf604709b0cac))
+
 ## [4.0.1](https://github.com/faizanrahman/test-semantic-release/compare/4.0.0...4.0.1) (2022-09-25)
 
 
