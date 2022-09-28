@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/faizanrahman/test-semantic-release/compare/4.0.4...4.1.0) (2022-09-28)
+
+
+### Features
+
+* new button ([0e72a27](https://github.com/faizanrahman/test-semantic-release/commit/0e72a27ae7f25e7ed035f21c6b09e1fb40842696))
+
 ## [4.0.4](https://github.com/faizanrahman/test-semantic-release/compare/4.0.3...4.0.4) (2022-09-28)
 
 
