@@ -1,3 +1,10 @@
+# [7.1.0](https://github.com/faizanrahman/test-semantic-release/compare/7.0.0...7.1.0) (2022-09-29)
+
+
+### Features
+
+* **REL-649926:** use subject in commit message ([31834f0](https://github.com/faizanrahman/test-semantic-release/commit/31834f019c591c8b0f75a61749fd1ffea09efa8d))
+
 # [7.0.0](https://github.com/faizanrahman/test-semantic-release/compare/6.0.0...7.0.0) (2022-09-29)
 
 
