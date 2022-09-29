@@ -1,3 +1,13 @@
+# [7.0.0](https://github.com/faizanrahman/test-semantic-release/compare/6.0.0...7.0.0) (2022-09-29)
+
+
+* try breaking change ([370826d](https://github.com/faizanrahman/test-semantic-release/commit/370826d977042bd0b267e0317e69b08bffd675e5))
+
+
+### BREAKING CHANGES
+
+* breaking change 4
+
 # [6.0.0](https://github.com/faizanrahman/test-semantic-release/compare/5.0.0...6.0.0) (2022-09-29)
 
 # [5.0.0](https://github.com/faizanrahman/test-semantic-release/compare/4.1.1...5.0.0) (2022-09-29)
