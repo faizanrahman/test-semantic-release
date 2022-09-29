@@ -1,3 +1,5 @@
+# [5.0.0](https://github.com/faizanrahman/test-semantic-release/compare/4.1.1...5.0.0) (2022-09-29)
+
 ## [4.1.1](https://github.com/faizanrahman/test-semantic-release/compare/4.1.0...4.1.1) (2022-09-29)
 
 
