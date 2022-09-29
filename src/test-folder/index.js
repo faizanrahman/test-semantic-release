@@ -5,4 +5,3 @@ console.log("new feature");
 console.log("tag commit");
 
 console.log("add breaking: " + "this updated the version but changelog was empty");
-console.log("breaking changes: ")
