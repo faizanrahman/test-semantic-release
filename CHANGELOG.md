@@ -1,3 +1,15 @@
+# [7.1.0](https://github.com/faizanrahman/test-semantic-release/compare/7.0.0...7.1.0) (2022-09-30)
+
+
+### Bug Fixes
+
+* test with a different tag name ([0e6531f](https://github.com/faizanrahman/test-semantic-release/commit/0e6531f55cafe07c59e42a9c42271906f77de6b7))
+
+
+### Features
+
+* **REL-649926:** use subject in commit message ([31834f0](https://github.com/faizanrahman/test-semantic-release/commit/31834f019c591c8b0f75a61749fd1ffea09efa8d))
+
 # [7.1.0](https://github.com/faizanrahman/test-semantic-release/compare/7.0.0...7.1.0) (2022-09-29)
 
 
