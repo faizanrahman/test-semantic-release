@@ -27,10 +27,10 @@ jobs:
           npx semantic-release
 
           ls
-          cd..
-          ls
-          cd..
-          ls
+          # cd..
+          # ls
+          # cd..
+          # ls
 
           $version = Get-Content ./version.txt
           $changelog = Get-Content ./CHANGELOG.md
