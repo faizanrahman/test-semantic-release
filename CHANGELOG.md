@@ -1,3 +1,10 @@
+# [7.2.0](https://github.com/faizanrahman/test-semantic-release/compare/7.1.12...7.2.0) (2022-10-03)
+
+
+### Features
+
+* remove options from commit-analyzer ([6c33f0b](https://github.com/faizanrahman/test-semantic-release/commit/6c33f0b0c29b208a4848715c2a6966bc0bcb3870))
+
 ## [7.1.12](https://github.com/faizanrahman/test-semantic-release/compare/7.1.11...7.1.12) (2022-10-03)
 
 
