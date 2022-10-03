@@ -1,3 +1,12 @@
+## [7.1.6](https://github.com/faizanrahman/test-semantic-release/compare/7.1.5...7.1.6) (2022-10-03)
+
+
+### Bug Fixes
+
+* dryRun to false ([01f8686](https://github.com/faizanrahman/test-semantic-release/commit/01f8686de5a3b2b1a649404eac3f45859e51cb01))
+* dryRun to true ([dea4018](https://github.com/faizanrahman/test-semantic-release/commit/dea401804c0b591cca9fc41f90a0d5e8d84f636e))
+* set dryRun to true to avoid creating version tag ([78cb48b](https://github.com/faizanrahman/test-semantic-release/commit/78cb48bcb35606a72d9992bededa6b1831c51b50))
+
 ## [7.1.5](https://github.com/faizanrahman/test-semantic-release/compare/7.1.4...7.1.5) (2022-10-03)
 
 
