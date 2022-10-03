@@ -1,3 +1,10 @@
+## [7.1.10](https://github.com/faizanrahman/test-semantic-release/compare/7.1.9...7.1.10) (2022-10-03)
+
+
+### Bug Fixes
+
+* exclude tagName from delete command ([12845e2](https://github.com/faizanrahman/test-semantic-release/commit/12845e2aea7405a42a8b5375938fd71f2ba91db4))
+
 ## [7.1.9](https://github.com/faizanrahman/test-semantic-release/compare/7.1.8...7.1.9) (2022-10-03)
 
 
