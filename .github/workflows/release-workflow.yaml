@@ -54,6 +54,6 @@ jobs:
           git commit -m "release v${version} [skip ci]"
           git push
 
-          git tag "$version"
+          git tag -f "$version"
           
           git push origin $version
