@@ -1,3 +1,10 @@
+## [7.1.12](https://github.com/faizanrahman/test-semantic-release/compare/7.1.11...7.1.12) (2022-10-03)
+
+
+### Bug Fixes
+
+* add force flag ([d456322](https://github.com/faizanrahman/test-semantic-release/commit/d456322de74bee76a0f4bbb2d4344cdcaf005c37))
+
 ## [7.1.11](https://github.com/faizanrahman/test-semantic-release/compare/7.1.10...7.1.11) (2022-10-03)
 
 
