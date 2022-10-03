@@ -44,7 +44,7 @@ jobs:
 
           git add .\version.txt
           git add .\CHANGELOG.md
-          git commit -m "release ${version} [skip ci]" ./version.txt
+          git commit -m "release ${version} [skip ci]"
           git push
 
           git tag "v$version"
