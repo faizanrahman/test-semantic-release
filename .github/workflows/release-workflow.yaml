@@ -26,11 +26,18 @@ jobs:
         run: |
           npx semantic-release
 
+          ls
           cd..
+          ls
           cd..
+          ls
 
           $version = Get-Content ./version.txt
           $changelog = Get-Content ./CHANGELOG.md
+
+          Write-Host "version : $version"
+
+          Write-Host "CHANGELOG: $changelog"
 
           git add .\version.txt
           git add .\CHANGELOG.md
