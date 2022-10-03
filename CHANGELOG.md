@@ -1,3 +1,10 @@
+## [7.1.8](https://github.com/faizanrahman/test-semantic-release/compare/7.1.7...7.1.8) (2022-10-03)
+
+
+### Bug Fixes
+
+* update script ([75b929a](https://github.com/faizanrahman/test-semantic-release/commit/75b929ae1124aae90d55e44a5b43a18208dcc6ed))
+
 ## [7.1.7](https://github.com/faizanrahman/test-semantic-release/compare/7.1.6...7.1.7) (2022-10-03)
 
 
