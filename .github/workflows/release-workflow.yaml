@@ -45,7 +45,7 @@ jobs:
 
           # remove tag created by semantic-release
           
-          git push --delete origin "v$version"
+          git push --delete origin "$version"
 
 
 
