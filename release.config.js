@@ -42,7 +42,6 @@ module.exports = {
         //     }
         // ]
     ],
-    // dryRun: false,
     dryRun: true,
     tagFormat: '${version}'
 }
