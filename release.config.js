@@ -1,6 +1,6 @@
 module.exports = {
     debug: true,
-    ci: true,
+    ci: false,
     branch: "main",
     repositoryUrl: "https://github.com/faizanrahman/test-semantic-release.git",
     plugins: [
