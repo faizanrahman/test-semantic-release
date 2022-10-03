@@ -1,3 +1,10 @@
+## [7.1.9](https://github.com/faizanrahman/test-semantic-release/compare/7.1.8...7.1.9) (2022-10-03)
+
+
+### Bug Fixes
+
+* update logs ([c050a0e](https://github.com/faizanrahman/test-semantic-release/commit/c050a0ebba884e5046860e9e3d129beeb8ffd967))
+
 ## [7.1.8](https://github.com/faizanrahman/test-semantic-release/compare/7.1.7...7.1.8) (2022-10-03)
 
 
