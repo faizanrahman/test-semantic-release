@@ -39,18 +39,19 @@ jobs:
           $version = Get-Content ./version.txt
           $changelog = Get-Content ./CHANGELOG.md
 
-          Write-Host "version : $version"
+          Write-Host "version : v$version"
           Write-Host "CHANGELOG: $changelog"
 
-          
+
           # remove tag created by semantic-release
+          
           git push --delete origin "v$version"
 
 
 
           git add .\version.txt
           git add .\CHANGELOG.md
-          git commit -m "release ${version} [skip ci]"
+          git commit -m "release v${version} [skip ci]"
           git push
 
           git tag "v$version"
