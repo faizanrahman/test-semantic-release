@@ -1,3 +1,10 @@
+## [7.1.7](https://github.com/faizanrahman/test-semantic-release/compare/7.1.6...7.1.7) (2022-10-03)
+
+
+### Bug Fixes
+
+* try local ci ([7f901e1](https://github.com/faizanrahman/test-semantic-release/commit/7f901e12fc026f64c3ae5b494deed05990bc0e05))
+
 ## [7.1.6](https://github.com/faizanrahman/test-semantic-release/compare/7.1.5...7.1.6) (2022-10-03)
 
 
