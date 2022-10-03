@@ -1,3 +1,10 @@
+## [7.1.11](https://github.com/faizanrahman/test-semantic-release/compare/7.1.10...7.1.11) (2022-10-03)
+
+
+### Bug Fixes
+
+* add command to delete tag created by semantic-release, and then add custom tag with updated files ([119c228](https://github.com/faizanrahman/test-semantic-release/commit/119c2281473cc8a8e0ad4350004945ce5ea62b7d))
+
 ## [7.1.10](https://github.com/faizanrahman/test-semantic-release/compare/7.1.9...7.1.10) (2022-10-03)
 
 
