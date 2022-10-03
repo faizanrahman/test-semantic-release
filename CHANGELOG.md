@@ -1,3 +1,10 @@
+## [7.1.5](https://github.com/faizanrahman/test-semantic-release/compare/7.1.4...7.1.5) (2022-10-03)
+
+
+### Bug Fixes
+
+* remove filepath from git commit command ([95683de](https://github.com/faizanrahman/test-semantic-release/commit/95683de5c23dfc02bfe7e810f52675a4acbe0032))
+
 # [7.1.0](https://github.com/faizanrahman/test-semantic-release/compare/7.0.0...7.1.0) (2022-09-30)
 
 
