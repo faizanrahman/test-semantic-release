@@ -34,13 +34,13 @@ module.exports = {
                 }
               ]
             }
-          ],
-        [
-            "@semantic-release/git",
-            {
-                "assets": ['CHANGELOG.md', 'package.json', 'version.txt']
-            }
         ]
+        // [
+        //     "@semantic-release/git",
+        //     {
+        //         "assets": ['CHANGELOG.md', 'package.json', 'version.txt']
+        //     }
+        // ]
     ],
     dryRun: false,
     tagFormat: '${version}'

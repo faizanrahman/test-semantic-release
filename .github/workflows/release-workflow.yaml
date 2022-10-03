@@ -20,6 +20,23 @@ jobs:
       - name: Install dependencies 
         run: npm ci
       - name: Release
+        shell: pwsh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release
+        run: |
+          npx semantic-release
+
+          cd..
+          cd..
+
+          $version = Get-Content ./version.txt
+          $changelog = Get-Content ./CHANGELOG.md
+
+          git add .\version.txt
+          git add .\CHANGELOG.md
+          git commit -m "release ${version} [skip ci]" ./version.txt
+          git push
+
+          git tag "v$version"
+          
+          git push --tags
