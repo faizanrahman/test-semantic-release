@@ -1,7 +1,7 @@
 module.exports = {
     debug: true,
     ci: true,
-    branch: "main",
+    branch: "develop",
     repositoryUrl: "https://github.com/faizanrahman/test-semantic-release.git",
     plugins: [
         "@semantic-release/commit-analyzer",
