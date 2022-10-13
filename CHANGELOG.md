@@ -1,3 +1,10 @@
+## [7.2.2](https://github.com/faizanrahman/test-semantic-release/compare/7.2.1...7.2.2) (2022-10-13)
+
+
+### Bug Fixes
+
+* specify version for semantic-release ([fa7aa06](https://github.com/faizanrahman/test-semantic-release/commit/fa7aa06658cef08b58382aa465b3bacb23792668))
+
 ## [7.2.1](https://github.com/faizanrahman/test-semantic-release/compare/7.2.0...7.2.1) (2022-10-13)
 
 
