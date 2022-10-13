@@ -1,3 +1,10 @@
+## [7.2.1](https://github.com/faizanrahman/test-semantic-release/compare/7.2.0...7.2.1) (2022-10-13)
+
+
+### Bug Fixes
+
+* revert back release branch to main ([60375a2](https://github.com/faizanrahman/test-semantic-release/commit/60375a2ad89491acdc169c309aff65f6fa875798))
+
 # [7.2.0](https://github.com/faizanrahman/test-semantic-release/compare/7.1.12...7.2.0) (2022-10-03)
 
 
