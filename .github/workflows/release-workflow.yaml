@@ -27,8 +27,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npm exec semantic-release
-          # npx semantic-release
+          # npm exec semantic-release
+          npm run semantic-release
 
           ls
           # cd..
