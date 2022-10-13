@@ -21,14 +21,17 @@ jobs:
         with:
           node-version: '12.2.0'
       - name: Install dependencies 
-        run: npm ci
+        run: |
+          npm install semantic-release
+          npm install @semantic-release/changelog@5.0.1
+          npm install @google/semantic-release-replace-plugin
       - name: Release
         shell: pwsh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # npm exec semantic-release
-          npm run semantic-release
+          npx semantic-release
 
           ls
           # cd..
