@@ -13,3 +13,5 @@ console.log("use subject in commit message");
 console.log("test with tag postfixed with '-pre'");
 
 console.log("breaking change message in commit header");
+
+console.log("breaking change in commit body/footer");
