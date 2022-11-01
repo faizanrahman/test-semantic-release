@@ -1,3 +1,13 @@
+# [9.0.0](https://github.com/faizanrahman/test-semantic-release/compare/8.0.0...9.0.0) (2022-11-01)
+
+
+* this is the header in the commit message ([2b13e91](https://github.com/faizanrahman/test-semantic-release/commit/2b13e915f2f07946d61da380a051f8c6310fc6a4))
+
+
+### BREAKING CHANGES
+
+* breaking change message in the commit body/description
+
 # [8.0.0](https://github.com/faizanrahman/test-semantic-release/compare/7.2.2...8.0.0) (2022-11-01)
 
 
