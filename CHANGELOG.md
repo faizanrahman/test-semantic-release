@@ -1,3 +1,13 @@
+# [8.0.0](https://github.com/faizanrahman/test-semantic-release/compare/7.2.2...8.0.0) (2022-11-01)
+
+
+* Merge pull request #89 from faizanrahman/test-branch-3 ([661b1b3](https://github.com/faizanrahman/test-semantic-release/commit/661b1b392f9833d507cfba643d3d0bfecd8c4465)), closes [#89](https://github.com/faizanrahman/test-semantic-release/issues/89)
+
+
+### BREAKING CHANGES
+
+* breaking change in commit header
+
 ## [7.2.2](https://github.com/faizanrahman/test-semantic-release/compare/7.2.1...7.2.2) (2022-10-13)
 
 
